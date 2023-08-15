@@ -88,6 +88,7 @@ const Home = () => {
           </Card>
         </Col>
       </Row>
+  
     </Container>
   );
 };
